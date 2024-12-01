@@ -12,5 +12,5 @@
 
 add
 {% raw %}
-<iframe src='https://pudding.cool/2017/03/films/embed.html' frameborder='0'></iframe>
+<iframe src='https://pudding.cool/2017/03/film-dialogue/embed.html' frameborder='0'></iframe>
 {% endraw %}
