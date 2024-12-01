@@ -12,6 +12,7 @@ test
 5. Add your new `.md` files to the site by editing the `_config.yml` file in your forked repository. Under `navigation:` add a new pair of `- title:` and `url:`, and fill their value with your page name and `.md` file name. Remember to remove the `- title:` and `url:` pair for the example page.
 6. Go back to "Settings" -> "Pages" to find your website link.
 
+add
 {% raw %}
 <iframe src='https://pudding.cool/2017/03/films/embed.html' frameborder='0'></iframe>
 {% endraw %}
